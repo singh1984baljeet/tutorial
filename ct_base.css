@@ -223,7 +223,12 @@ textarea {
 	resize: vertical;
 }
 
+#photo1{
+	border-radius: 10px;
+	border: 3px green solid;
+	box-shadow: 2px 2px 4px #000;
 
+}
 
 /* =============================================
 	Default styles for web tables
